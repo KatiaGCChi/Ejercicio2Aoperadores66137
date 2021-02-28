@@ -32,6 +32,8 @@ public class Ejercicio2Aoperadores66137 {
         
         System.out.println("El determinante de la matriz es: " + determinante) ;
         
+        
+        
                 
                 
     }
